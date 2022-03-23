@@ -2,7 +2,7 @@
 
 Para facilitarmos o entendimento, criamos um exemplo bem simples de um sistema escolar, no qual vamos cadastrar novas turmas. A estrutura base do projeto foi divida nas camadas: Core, Entities, UseCases e Web, conforme nos mostra a imagem abaixo:
 <p align="center">
-    <img alt="Clean Architecture Concept" width="400px" src="https://raw.githubusercontent.com/eduardoc7/concepts-notes/main/web/clean-arch/assets/images/clean-arch-example.png" />   
+    <img alt="Clean Architecture Concept" width="400px" src="https://github.com/eduardoc7/concepts-notes/blob/0d825b7c18d0554cf5ebd864bf5aa52b8d106a9b/clean-arch/assets/images/clean-arch-example.png" />   
 </p>
 
 ---

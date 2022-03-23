@@ -38,7 +38,7 @@ Dentre as principais regras do Clean Architecture, devemos ter maior atenção a
 Com isso, os códigos nas camadas internas não precisam ter conhecimento necessariamente das funções nas camadas externas. Os níveis mais internos não podem mencionar as variáveis, funções e classes que existem nas camadas externas.
 
 <p align="center">
-    <img alt="Clean Architecture Concept" width="400px" src="https://raw.githubusercontent.com/eduardoc7/concepts-notes/main/web/clean-arch/assets/images/CleanArchitecture.png" />   
+    <img alt="Clean Architecture Concept" width="400px" src="https://github.com/eduardoc7/concepts-notes/blob/0d825b7c18d0554cf5ebd864bf5aa52b8d106a9b/clean-arch/assets/images/CleanArchitecture.png" />   
 </p>
 
 ---

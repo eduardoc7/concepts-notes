@@ -1,7 +1,8 @@
-# concepts-notes
+# Notas téoricas 
 
 Minhas anotações sobre os assuntos que estou estudando no momento. Focando mais em texto teórico, do que em código.
 
+O real objetivo é pegar tecnologias que eu acho importante para engenharia de software e tentar entender por que isso foi criadoe e qual problema isso resolve.Partindo sempre pela história, antes mesmo de implementar na prática coisas já existentes.
 ---
 
 ## 📝 License

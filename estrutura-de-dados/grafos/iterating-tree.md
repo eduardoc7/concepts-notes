@@ -16,6 +16,7 @@ De maneira prática, visita um nó `x` e após isso, visita seus descendentes. (
 ### Algoritmo de Pré-Ordem
 Esse algoritmo basicamente percorrerá todos os nós da esquerda, depois da direita.
 
+```
 PreOrdem(struct Arvore p) {
     if (p!= null) {
         printf(p)
@@ -23,6 +24,7 @@ PreOrdem(struct Arvore p) {
         PreOrdem(p.direita)
     }
 }
+```
 
 ---
 ## Ordem (Simétrica)
@@ -31,6 +33,7 @@ Este quando chega no nó, visitará primeiro os descendentes da esquerda, depois
 ### Algoritmo de Ordem
 Esse algoritmo basicamente percorrerá todos os nós da esquerda, depois da direita.
 
+```
 Ordem(struct Arvore p) {
     if (p!= null) {
         Ordem(p.esquerda)
@@ -38,6 +41,7 @@ Ordem(struct Arvore p) {
         Ordem(p.direita)
     }
 }
+```
 
 ---
 ## Pós-Ordem (Simétrica)
@@ -46,6 +50,7 @@ Este só visitará um nó, depois de percorrer todos os seus descendentes (esque
 ### Algoritmo de Pós-Ordem
 Esse algoritmo basicamente percorrerá todos os nós da esquerda, depois da direita.
 
+```
 PosOrdem(struct Arvore p) {
     if (p!= null) {
         PosOrdem(p.esquerda)
@@ -53,4 +58,5 @@ PosOrdem(struct Arvore p) {
         printf(p)
     }
 }
+```
 ---

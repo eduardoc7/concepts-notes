@@ -48,4 +48,5 @@ Seguindo a fórmula:
     - O número de vértices em uma árvore binária cheia é `2` elevado a `h+1`, onde h é a altura da árvore.
     - Uma árvore com `n` vértices tem `n-1` arestas.
     - Em uma árvore com `n` vértices, o número total de extremidades de arestas é `2n-2`.
+    
 ---
